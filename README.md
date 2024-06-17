@@ -1,12 +1,13 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF7F00&title_bg=%23000000&icon=counter-strike.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" align="right"/></a>
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF7F00&title_bg=%23000000&icon=counter-strike.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" align="center"/>
 
 
 <div id="header" align="left">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> 
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Welcome+Software+Library+Channel;+Click+image+to+join+our+server%7C)
-
+<p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Welcome+Software+Library+Channel;+Welcome+Mehmet+Demir+Channel)
+</p>
 <h3 align="center">Languages and Tools</h3>
 <div align="center">
     <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">

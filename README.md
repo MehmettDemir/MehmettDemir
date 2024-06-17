@@ -8,7 +8,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Welcome+Software+Library+Channel;+Welcome+Mehmet+Demir+Channel)
 
-<h3 align="center">Languages and Tools</h3>
+<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Languages and Tools </b></h3>
 <div align="center">
     <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>

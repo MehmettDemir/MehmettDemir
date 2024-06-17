@@ -43,9 +43,6 @@
     <a href="https://wordpress.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="WordPress" width="40" height="40"/>
     </a>
-    <a href="https://www.wix.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wix/wix-original.svg" alt="Wix" width="40" height="40"/>
-    </a>
     <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="40" height="40"/>
     </a>
@@ -60,19 +57,24 @@
 
 <h2>Communication</h2>
 <div align="center"> 
+    <a href="mailto:mehmettt.demir10@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+    </a>
     <a href="https://www.linkedin.com/in/mehmet-demir-7437a425b/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
-    </a>
-    <a href="mailto:mehmettt.demir10@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
     </a>
     <a href="https://medium.com/@mehmettt.demir10" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>
     </a>
-    <a href="https://www.instagram.com/mehmetttddemirr/" target="_blank" rel="noopener noreferrer">
-        <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
+    <a href="https://discord.gg/JN6Nq7GT" target="_blank" rel="noopener noreferrer">
+        <img alt="Discord" src="https://img.shields.io/badge/discord-%23333?&style=for-the-badge&logo=discord&logoColor=blue"/>
     </a>
+    <a href="https://www.instagram.com/mehmetttddemirr/" target="_blank" rel="noopener noreferrer">
+        <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C"/>
+    </a>
+    
 </div>
+
 
 
 

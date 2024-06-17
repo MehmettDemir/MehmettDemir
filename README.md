@@ -1,5 +1,5 @@
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF7F00&title_bg=%23000000&icon=counter-strike.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" align="left"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF7F00&title_bg=%23000000&icon=counter-strike.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" align="right"/>
 
 
 <div id="header" align="left">
@@ -8,7 +8,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Welcome+Software+Library+Channel;+Welcome+Mehmet+Demir+Channel)
 
-<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Languages and Tools </b></h3>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Languages and Tools </b></h2>
 <div align="center">
     <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>

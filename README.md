@@ -69,6 +69,9 @@
     <a href="https://discord.gg/JN6Nq7GT" target="_blank" rel="noopener noreferrer">
         <img alt="Discord" src="https://img.shields.io/badge/discord-%23333?&style=for-the-badge&logo=discord&logoColor=blue"/>
     </a>
+    <a href="https://x.com/xmhmt_60" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/twitter-%23333?style=for-the-badge&logo=x&logoColor=blue" target="_blank">
+    </a>
     <a href="https://www.instagram.com/mehmetttddemirr/" target="_blank" rel="noopener noreferrer">
         <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C"/>
     </a>

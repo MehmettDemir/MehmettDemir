@@ -50,9 +50,9 @@
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b></h2>
 
 <p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000"/>
-  <img height="150" width="150" src="WEBP/right.webp">
+  <img height="150" width="150" src="https://resimlink.com/zpU0xv">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MehmettDemir&theme=dark&background=000000"/>
+  <img height="150" width="150" src="https://resimlink.com/sk_3TG">
 </p>
 
 
